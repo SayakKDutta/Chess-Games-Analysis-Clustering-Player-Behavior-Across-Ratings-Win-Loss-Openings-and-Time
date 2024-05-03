@@ -1,4 +1,4 @@
-# Chess Games Analysis by Clustering Player Behavior across Ratings by Win Loss Openings and Time
+# Chess Games Analysis by Clustering Player Behavior across Ratings by Win-Loss Outcome, Openings and Time
 
 This project focuses on analyzing a dataset of chess games using Python's pandas library for data manipulation and visualization, scikit-learn for machine learning tasks like clustering, and Plotly for interactive visualizations. The dataset used in this project contains information about over 20,000 chess games, including various attributes such as game length, opening moves, player ratings, and more.
 

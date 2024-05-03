@@ -42,6 +42,9 @@ The [DATASET](games.csv) used in this analysis is sourced from [Kaggle](https://
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+
 ## Contact
 
 For any questions or feedback, please contact [sayak.kr.dutta1@gmail.com](mailto:sayak.kr.dutta1@gmail.com).
